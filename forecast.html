@@ -43,7 +43,39 @@
       <div id="youtube_bell_icon_png_file_1"  ></div>
       <div id="btc___bitcoin" > <span style="font-style:normal; font-weight:normal; text-decoration:NONE; ">BTC </span><span style="font-size:24; font-style:normal; font-weight:normal; text-decoration:NONE; ">| Bitcoin</span> </div>
       <div id="_19717_32" > $19717.32 </div>
+      <script type="text/javascript">
+        let titles = ['$19717.32', '$20137.28', '19422.56'];
+        let currentIndex = 0;
+        let aSpan = document.getElementById('_19717_32');
+
+        setInterval(() => {
+          
+          aSpan.innerHTML= titles[currentIndex];   
+          
+          currentIndex++;
+          
+          if (currentIndex === 3)
+            currentIndex = 0;
+
+        }, 1000)
+    </script>
       <div id="__470_66___2_30___ek" > -470.66 (-2.30%) </div>
+      <script type="text/javascript">
+        let titles1 = ['-470.66 (-2.30%)', '+70.66 (+0.40%)', '-821.31(-5.01%)'];
+        let currentIndex1 = 0;
+        let aSpan1 = document.getElementById('__470_66___2_30___ek');
+
+        setInterval(() => {
+          
+          aSpan1.innerHTML= titles1[currentIndex1];   
+          
+          currentIndex1++;
+          
+          if (currentIndex1 === 3)
+            currentIndex1 = 0;
+
+        }, 1000)
+    </script>
       <div id="bitcoin_btc_logo_1"  ></div>
       <div id="line_3"  ></div>
       <div id="line_5"  ></div>
@@ -52,6 +84,22 @@
     </div>
     <div id="group_16"  >
       <div id="__19717_32" > $19717.32 </div>
+      <script type="text/javascript">
+        let titles2 = ['$19717.32', '$20137.28', '19422.56'];
+        let currentIndex2 = 0;
+        let aSpan2 = document.getElementById('__19717_32');
+
+        setInterval(() => {
+          
+          aSpan2.innerHTML= titles2[currentIndex2];   
+          
+          currentIndex2++;
+          
+          if (currentIndex2 === 3)
+            currentIndex2 = 0;
+
+        }, 1000)
+    </script>
       <div id="current_price" > Current Price </div>
     </div>
     <div id="group_15"  >

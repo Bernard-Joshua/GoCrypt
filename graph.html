@@ -6,7 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="" >
 <link rel="StyleSheet" href="main_page___forecast.css" />
-<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script> 
+<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
+
 <!-- Add your custom HEAD content here -->
 
 </head>
@@ -50,6 +51,24 @@
         <div id="line_3_ek1"  ></div>
         <div id="line_4"  ></div>
         <div id="image_4"  ></div>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript">
+          var images = ["image_2.png", "image_3.png", "image_4.png"];
+          $(function () {
+              var i = 0;
+              $("#image_4").css("background-image", "url(skins/" + images[i] + ")");
+              setInterval(function () {
+                  i++;
+                  if (i == images.length) {
+                      i = 0;
+                  }
+                  $("#image_4").fadeOut("slow", function () {
+                      $(this).css("background-image", "url(skins/" + images[i] + ")");
+                      $(this).fadeIn("slow");
+                  });
+              }, 5000);
+          });
+      </script>
         <div id="frame_3"  >
           <div id="__2_30_" > -2.30% </div>
         </div>
