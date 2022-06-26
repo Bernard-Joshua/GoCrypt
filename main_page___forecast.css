@@ -1,0 +1,2133 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; background: #646464;}
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_main_page___forecast_ek1 {
+	width: 1440px;
+	height: 1080px;
+}
+
+#_bg__main_page___forecast_ek2 {
+	width: 1440px;
+	height: 1080px;
+	background:rgba(255,255,255,1);
+}
+
+#logo_frame {
+	top: 0px;
+	left: 0px;
+	width: 326px;
+	height: 1024px;
+}
+
+#gocrypt {
+	top: 53px;
+	left: 157px;
+	width: 210px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#FF7B00;
+}
+
+
+#portfolio {
+	top: 402px;
+	left: 26px;
+	width: 189px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#discover {
+	top: 465px;
+	left: 26px;
+	width: 192px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#more {
+	top: 654px;
+	left: 25px;
+	width: 75px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#withdraw_funds {
+	top: 698px;
+	left: 25px;
+	width: 181px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#settings {
+	top: 742px;
+	left: 25px;
+	width: 103px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#help {
+	top: 780px;
+	left: 25px;
+	width: 70px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#logout {
+	top: 824px;
+	left: 25px;
+	width: 91px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#market {
+	top: 339px;
+	left: 25px;
+	width: 205px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#home {
+	top: 276px;
+	left: 26px;
+	width: 143px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+#profile_picture {
+	top: 161px;
+	left: 25px;
+	width: 217px;
+	height: 65.12px;
+}
+
+#gocryptuser123 {
+	top: 22px;
+	left: 94px;
+	width: 143.5px;
+	height: 32.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 74px;
+	height: 65.12px;
+	background:rgba(217,217,217,1);
+}
+
+
+#profile_picture_ek1 {
+	top: 13px;
+	left: -1px;
+	width: 85px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_5 {
+	top: 0px;
+	left: 326px;
+	width: 1114px;
+	height: 1024px;
+}
+#group_3 {
+	top: 18px;
+	left: 413px;
+	width: 288px;
+	height: 45px;
+}
+#group_4 {
+	top: 0px;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+}
+
+#rectangle_6 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+	background:url(skins/rectangle_6.png);
+	background-size:cover;
+}
+
+
+#search_gocrypt {
+	top: 14px;
+	left: 40px;
+	width: 145px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#search_button_png_hd_photo_1 {
+	top: 9px !important;
+	position: absolute !important;
+	left: 12px;
+	width: 23.58px;
+	height: 26.05px;
+	background:url(skins/search_button_png_hd_photo_1.png);
+	background-size:cover;
+}
+
+
+#youtube_bell_icon_png_file_1 {
+	top: 20px !important;
+	position: absolute !important;
+	left: 1059px;
+	width: 36px;
+	height: 40px;
+	background:url(skins/youtube_bell_icon_png_file_1.png);
+	background-size:cover;
+}
+
+
+#btc___bitcoin {
+	top: 130px;
+	left: 138px;
+	width: 194px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 28px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_19717_32 {
+	top: 170px;
+	left: 138px;
+	width: 193px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bitcoin_btc_logo_1 {
+	top: 113px !important;
+	position: absolute !important;
+	left: 13px;
+	width: 116px;
+	height: 116px;
+	background:url(skins/bitcoin_btc_logo_1.png);
+	background-size:cover;
+}
+
+
+#line_3 {
+	top: 85px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_3.png);
+	background-size:cover;
+}
+
+
+#line_5 {
+	top: 253px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_5.png);
+	background-size:cover;
+}
+
+
+#forecast {
+	top: 292px;
+	left: 194px;
+	width: 166px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#graph {
+	top: 291px;
+	left: 71px;
+	width: 135px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_16 {
+	top: 448px;
+	left: 504px;
+	width: 200px;
+	height: 103px;
+}
+
+#__19717_32 {
+	top: 57px;
+	left: 11px;
+	width: 215px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#current_price {
+	top: 0px;
+	left: 0px;
+	width: 237px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_15 {
+	top: 443px;
+	left: 1053px;
+	width: 178px;
+	height: 103px;
+}
+#group_17 {
+	top: 0px;
+	left: 0px;
+	width: 178px;
+	height: 103px;
+}
+
+#__20117_32 {
+	top: 57px;
+	left: 0px;
+	width: 215px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#target {
+	top: 0px;
+	left: 37px;
+	width: 140px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_18 {
+	top: 690px;
+	left: 526px;
+	width: 155px;
+	height: 103px;
+}
+#group_12 {
+	top: 57px;
+	left: 4px;
+	width: 139px;
+	height: 46px;
+}
+
+#_5_30_ {
+	top: 0px;
+	left: 34px;
+	width: 142px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#20AA0A;
+}
+
+
+#polygon_1 {
+	top: 15px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 25px;
+	height: 26px;
+	background:url(skins/polygon_1.png);
+	background-size:cover;
+}
+
+
+#prediction {
+	top: 0px;
+	left: 0px;
+	width: 192px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_19 {
+	top: 683px;
+	left: 1075px;
+	width: 135.48px;
+	height: 119.53px;
+}
+
+#rectangle_18 {
+	top: 62px;
+	left: 0px;
+	width: 135.48px;
+	height: 57.53px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(32.94,170,10.63,1);
+}
+
+
+#buy {
+	top: 68px;
+	left: 33px;
+	width: 107px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rating {
+	top: 0px;
+	left: 16px;
+	width: 139px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_main_page___graph_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__main_page___graph_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+#logo_frame_ek {
+	top: 0px;
+	left: 0px;
+	width: 326px;
+	height: inherit;
+	background: #E9E9E9;
+}
+
+#gocrypt_ek1 {
+	top: 53px;
+	left: 157px;
+	width: 210px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#FF7B00;
+}
+
+#profile_picture_ek2 {
+	top: 161px;
+	left: 25px;
+	width: 217px;
+	height: 65.12px;
+}
+
+#gocryptuser123_ek1 {
+	top: 22px;
+	left: 94px;
+	width: 143.5px;
+	height: 32.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 74px;
+	height: 65.12px;
+	background:rgba(217,217,217,1);
+}
+
+
+#profile_picture_ek3 {
+	top: 13px;
+	left: -1px;
+	width: 85px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+#group_7 {
+	top: 0px;
+	left: 326px;
+	width: 1114px;
+	height: 1024px;
+}
+#frame_5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1114px;
+	height: 1024px;
+}
+#group_3_ek1 {
+	top: 18px;
+	left: 413px;
+	width: 288px;
+	height: 45px;
+}
+#group_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+}
+
+#rectangle_6_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+	background:url(skins/rectangle_6_ek1.png);
+	background-size:cover;
+}
+
+
+#search_button_png_hd_photo_1_ek1 {
+	top: 9px !important;
+	position: absolute !important;
+	left: 12px;
+	width: 23.58px;
+	height: 26.05px;
+	background:url(skins/search_button_png_hd_photo_1_ek1.png);
+	background-size:cover;
+}
+
+
+#youtube_bell_icon_png_file_1_ek1 {
+	top: 20px !important;
+	position: absolute !important;
+	left: 1059px;
+	width: 36px;
+	height: 40px;
+	background:url(skins/youtube_bell_icon_png_file_1_ek1.png);
+	background-size:cover;
+}
+
+
+#btc___bitcoin_ek1 {
+	top: 130px;
+	left: 138px;
+	width: 194px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 28px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__19717_32_ek1 {
+	top: 170px;
+	left: 138px;
+	width: 215px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__470_66___2_30___ek {
+	top: 184px;
+	left: 325px;
+	width: 161px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#FF0606;
+}
+
+
+#bitcoin_btc_logo_1_ek1 {
+	top: 113px !important;
+	position: absolute !important;
+	left: 13px;
+	width: 116px;
+	height: 116px;
+	background:url(skins/bitcoin_btc_logo_1_ek1.png);
+	background-size:cover;
+}
+
+
+#line_3_ek1 {
+	top: 85px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_3_ek1.png);
+	background-size:cover;
+}
+
+
+#line_4 {
+	top: 253px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_4.png);
+	background-size:cover;
+}
+
+
+#image_4 {
+	top: 398px !important;
+	position: absolute !important;
+	left: 71px;
+	width: 916px;
+	height: 480px;
+	background:url(skins/image_4.png);
+	background-size:cover;
+}
+
+#frame_3 {
+	top: 140px;
+	left: 834px;
+	width: 184px;
+	height: 65px;
+}
+
+#__2_30_ {
+	top: 18px;
+	left: 52px;
+	width: 89px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#forecast_ek1 {
+	top: 292px;
+	left: 194px;
+	width: 166px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#graph_ek1 {
+	top: 291px;
+	left: 71px;
+	width: 135px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+#page_main_page___market_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__main_page___market_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+#gocrypt_ek2 {
+	top: 53px;
+	left: 157px;
+	width: 210px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#FF7B00;
+}
+
+
+#gocryptuser123_ek2 {
+	top: 183px;
+	left: 119px;
+	width: 143.5px;
+	height: 32.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5_ek2 {
+	top: 161px;
+	left: 25px;
+	width: 74px;
+	height: 65.12px;
+	background:rgba(217,217,217,1);
+}
+
+
+#profile_picture_ek4 {
+	top: 174px;
+	left: 24px;
+	width: 85px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_5_ek2 {
+	top: 0px;
+	left: 326px;
+	width: 1114px;
+	height: 1024px;
+}
+#group_3_ek2 {
+	top: 18px;
+	left: 413px;
+	width: 288px;
+	height: 45px;
+}
+#group_4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+}
+
+#rectangle_6_ek2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+	background:url(skins/rectangle_6_ek2.png);
+	background-size:cover;
+}
+
+#search_button_png_hd_photo_1_ek2 {
+	top: 9px !important;
+	position: absolute !important;
+	left: 12px;
+	width: 23.58px;
+	height: 26.05px;
+	background:url(skins/search_button_png_hd_photo_1_ek2.png);
+	background-size:cover;
+}
+
+
+#youtube_bell_icon_png_file_1_ek2 {
+	top: 20px !important;
+	position: absolute !important;
+	left: 1059px;
+	width: 36px;
+	height: 40px;
+	background:url(skins/youtube_bell_icon_png_file_1_ek2.png);
+	background-size:cover;
+}
+
+
+#my_market {
+	top: 124px;
+	left: 22px;
+	width: 215px;
+	height: 65px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#price {
+	top: 213px;
+	left: 238px;
+	width: 117px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_24h {
+	top: 213px;
+	left: 412px;
+	width: 117px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_1h {
+	top: 213px;
+	left: 330px;
+	width: 117px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_7d {
+	top: 213px;
+	left: 492px;
+	width: 117px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_24h_volume {
+	top: 214px;
+	left: 620px;
+	width: 117px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#market_cap {
+	top: 215px;
+	left: 794px;
+	width: 117px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+#bitcoin_btc_logo_1_ek2 {
+	top: 410px;
+	left: 541px;
+	width: 1px;
+	height: 1px;
+}
+#layer_x0020_1 {
+	top: 0px;
+	left: 0px;
+	width: 1px;
+	height: 1px;
+}
+#__1421344023328 {
+	top: 0px;
+	left: 0px;
+	width: 1px;
+	height: 1px;
+}
+
+#vector {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1px;
+	height: 1px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+
+#vector_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 0.48px;
+	height: 0.63px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+#group_11 {
+	top: 246px;
+	left: 0px;
+	width: 1114.01px;
+	height: 458px;
+}
+#frame_10 {
+	top: 0px;
+	left: 0px;
+	width: 1114.01px;
+	height: 458px;
+}
+
+#line_4_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_4_ek1.png);
+	background-size:cover;
+}
+
+
+#line_5_ek1 {
+	top: 92px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_5_ek1.png);
+	background-size:cover;
+}
+
+
+#line_6 {
+	top: 183px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_6.png);
+	background-size:cover;
+}
+
+
+#line_7 {
+	top: 275px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_7.png);
+	background-size:cover;
+}
+
+
+#line_8 {
+	top: 366px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_8.png);
+	background-size:cover;
+}
+
+
+#rectangle_10 {
+	top: 17px !important;
+	position: absolute !important;
+	left: 250px;
+	width: 837px;
+	height: 56px;
+	background:url(skins/rectangle_10.png);
+	background-size:cover;
+}
+
+
+#rectangle_11 {
+	top: 110px !important;
+	position: absolute !important;
+	left: 250px;
+	width: 837px;
+	height: 56px;
+	background:url(skins/rectangle_11.png);
+	background-size:cover;
+}
+
+
+#rectangle_12 {
+	top: 202px !important;
+	position: absolute !important;
+	left: 250px;
+	width: 837px;
+	height: 56px;
+	background:url(skins/rectangle_12.png);
+	background-size:cover;
+}
+
+
+#rectangle_13 {
+	top: 293px !important;
+	position: absolute !important;
+	left: 250px;
+	width: 837px;
+	height: 56px;
+	background:url(skins/rectangle_13.png);
+	background-size:cover;
+}
+
+
+#polkadot_new_dot_logo_1 {
+	top: 288px !important;
+	position: absolute !important;
+	left: 38px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/polkadot_new_dot_logo_1.png);
+	background-size:cover;
+}
+
+
+#btc {
+	top: 25px;
+	left: 125px;
+	width: 55px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bitcoin {
+	top: 46px;
+	left: 125px;
+	width: 74px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#eth {
+	top: 113px;
+	left: 125px;
+	width: 54px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ethereum {
+	top: 134px;
+	left: 125px;
+	width: 93px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ada {
+	top: 207px;
+	left: 125px;
+	width: 59px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#cardano {
+	top: 228px;
+	left: 125px;
+	width: 89px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#dot {
+	top: 301px;
+	left: 125px;
+	width: 58px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#polkadot {
+	top: 322px;
+	left: 125px;
+	width: 89px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bitcoin_btc_logo_1_ek3 {
+	top: 13px !important;
+	position: absolute !important;
+	left: 38px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/bitcoin_btc_logo_1_ek3.png);
+	background-size:cover;
+}
+
+
+#cardano_ada_logo_1 {
+	top: 196px !important;
+	position: absolute !important;
+	left: 38px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/cardano_ada_logo_1.png);
+	background-size:cover;
+}
+
+
+#ethereum_eth_logo_1 {
+	top: 102px !important;
+	position: absolute !important;
+	left: 38px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/ethereum_eth_logo_1.png);
+	background-size:cover;
+}
+
+
+#line_3_ek2 {
+	top: 195px !important;
+	position: absolute !important;
+	left: -32px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_3_ek2.png);
+	background-size:cover;
+}
+
+
+#line_4_ek2 {
+	top: 85px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_4_ek2.png);
+	background-size:cover;
+}
+
+#page_main_page___after_login_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__main_page___after_login_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+#gocrypt_ek3 {
+	top: 53px;
+	left: 157px;
+	width: 210px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#FF7B00;
+}
+
+
+#profile_picture_ek5 {
+	top: 161px;
+	left: 25px;
+	width: 217px;
+	height: 65.12px;
+}
+
+#gocryptuser123_ek3 {
+	top: 22px;
+	left: 94px;
+	width: 143.5px;
+	height: 32.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 74px;
+	height: 65.12px;
+	background:rgba(217,217,217,1);
+}
+
+
+#profile_picture_ek6 {
+	top: 13px;
+	left: -1px;
+	width: 85px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 13px;
+	text-align: center;
+	color:#000000;
+}
+
+#frame_5_ek3 {
+	top: 0px;
+	left: 326px;
+	width: 1114px;
+	height: 1024px;
+}
+#main_dashboard {
+	top: 214px;
+	left: 64px;
+	width: 986px;
+	height: 275px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 986px;
+	height: 275px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(217,217,217,1);
+}
+
+
+#welcome_gocryptuser123 {
+	top: 37px;
+	left: 39px;
+	width: 501px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#youtube_bell_icon_png_file_1_ek3 {
+	top: 20px !important;
+	position: absolute !important;
+	left: 1059px;
+	width: 36px;
+	height: 40px;
+	background:url(skins/youtube_bell_icon_png_file_1_ek3.png);
+	background-size:cover;
+}
+
+#bitcoin_dashboard {
+	top: 553px;
+	left: 64px;
+	width: 451px;
+	height: 209px;
+}
+
+#btc_ek1 {
+	top: 136px;
+	left: 89px;
+	width: 104px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__30_223_50 {
+	top: 136px;
+	left: 169px;
+	width: 225px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bitcoin_btc_logo_1_ek4 {
+	top: 126px !important;
+	position: absolute !important;
+	left: 15px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/bitcoin_btc_logo_1_ek4.png);
+	background-size:cover;
+}
+
+
+#rectangle_11_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 451px;
+	height: 250px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btc_ek2 {
+	top: 180px;
+	left: 89px;
+	width: 104px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10_ek1 {
+	top: 180px;
+	left: 343px;
+	width: 77px;
+	height: 35.75px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(32.94,170,10.63,1);
+}
+
+
+#buy_ek1 {
+	top: 185px;
+	left: 353px;
+	width: 53px;
+	height: 44.08px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#__30_223_50_ek1 {
+	top: 180px;
+	left: 169px;
+	width: 225px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bitcoin_btc_logo_2 {
+	top: 165px !important;
+	position: absolute !important;
+	left: 15px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/bitcoin_btc_logo_2.png);
+	background-size:cover;
+}
+
+
+#image_2 {
+	top: 12px !important;
+	position: absolute !important;
+	left: 33px;
+	width: 386px;
+	height: 145px;
+	background:url(skins/image_2.png);
+	background-size:cover;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+#eth_dashboard {
+	top: 553px;
+	left: 599px;
+	width: 451px;
+	height: 209px;
+}
+
+#rectangle_12_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 451px;
+	height: 250px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(217,217,217,1);
+}
+
+
+#eth_ek1 {
+	top: 180px;
+	left: 89px;
+	width: 103px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_13_ek1 {
+	top: 180px;
+	left: 343px;
+	width: 77px;
+	height: 35.75px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:rgba(32.94,170,10.63,1);
+}
+
+
+#buy_ek2 {
+	top: 185px;
+	left: 353px;
+	width: 55.33px;
+	height: 46.08px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#__1_791_81 {
+	top: 180px;
+	left: 178px;
+	width: 204px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_3 {
+	top: 12px !important;
+	position: absolute !important;
+	left: 33px;
+	width: 386px;
+	height: 145px;
+	background:url(skins/image_3.png);
+	background-size:cover;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+
+#ethereum_eth_logo_2 {
+	top: 165px !important;
+	position: absolute !important;
+	left: 17px;
+	width: 66px;
+	height: 66px;
+	background:url(skins/ethereum_eth_logo_2.png);
+	background-size:cover;
+}
+
+#search {
+	top: 18px;
+	left: 739px;
+	width: 288px;
+	height: 45px;
+}
+#group_4_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+}
+
+#rectangle_6_ek3 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 288px;
+	height: 45px;
+	background:url(skins/rectangle_6_ek3.png);
+	background-size:cover;
+}
+
+#search_button_png_hd_photo_1_ek3 {
+	top: 9px !important;
+	position: absolute !important;
+	left: 12px;
+	width: 23.58px;
+	height: 26.05px;
+	background:url(skins/search_button_png_hd_photo_1_ek3.png);
+	background-size:cover;
+}
+
+
+#line_3_ek3 {
+	top: 85px !important;
+	position: absolute !important;
+	left: 326px;
+	width: 1114.01px;
+	height: 0.5px;
+	background:url(skins/line_3_ek3.png);
+	background-size:cover;
+}
+
+#page_sign_in_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__sign_in_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_1 {
+	width: 1438px;
+	height: 140px;
+	border-style: solid;
+	border-width: thin;
+	border-color: orange;
+}
+
+#gocrypt_ek4 {
+	top: 53px;
+	left: 157px;
+	width: 210px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#FF7B00;
+}
+
+
+
+#logo {
+	top: 17px;
+	left: 22px;
+	width: 112px;
+	height: 72px;
+	overflow: hidden;   
+	font-family: Aoboshi One;
+	font-size: 32px;
+	text-align: center;
+	background-color:#FF7B00;
+	color:#FFFFFF;
+}
+
+#logotext {
+	top: 17px;
+	left: 2px;
+	width: 108px;
+	height: 50px;
+}
+
+#line_1 {
+	top: 140px;
+	left: -8px;
+	width: 1458px;
+	height: 0.5px;
+	background:#000000;
+}
+
+#frame {
+	top: 140px;
+	left: 0px;
+	width: 1440px;
+	height: 884px;
+}
+#frame_5_ek4 {
+	top: 86px;
+	left: 483px;
+	width: 474px;
+	height: 671px;
+	border-style: solid;
+	border-width: thin;
+}
+
+#sign_in {
+	top: 51px;
+	left: 196px;
+	width: 111px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_6 {
+	top: 270px;
+	left: 43px;
+	width: 388px;
+	height: 52px;
+}
+
+#line_2 {
+	top: 42.5px;
+	left: 10px;
+	width: 367px;
+	height: 1px;
+	background:#000000;
+}
+
+
+#password {
+	opacity:0.5;
+	top: 7px;
+	left: 13px;
+	width: 385px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_7 {
+	top: 160px;
+	left: 43px;
+	width: 388px;
+	height: 52px;
+}
+
+#line_2_ek1 {
+	top: 42.5px;
+	left: 10px;
+	width: 367px;
+	height: 1px;
+	background:#000000;
+}
+
+#pageline {
+	top: 105px;
+	left: 0px;
+	width: 1111px;
+	height: 1px;
+	background:#000000;
+}
+
+
+#username {
+	opacity:0.5;
+	top: 7px;
+	left: 13px;
+	width: 385px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_1 {
+	top: 370px;
+	left: 56px;
+	width: 204px;
+	height: 30px;
+}
+
+#rectangle_3 {
+	opacity:0.5;
+	top: 0px;
+	left: 0px;
+	width: 32px;
+	height: 32px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#stay_signed_in {
+	opacity:0.59;
+	top: 10px;
+	left: 41px;
+	width: 184px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#sign_in_button {
+	top: 458px;
+	left: 55px;
+	width: 364px;
+	height: 58px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 364px;
+	height: 58px;
+	background:rgba(255,123,0,1);
+}
+
+
+#sign_in_ek1 {
+	top: 20px;
+	left: 95px;
+	width: 180px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#don_t_have_account__sign_up {
+	top: 564px;
+	left: 99px;
+	width: 282px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 16px;
+	text-align: center;
+	color:#000000;
+}
+
+#page_main_page___before_login_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__main_page___before_login_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_3_ek1 {
+	top: 140px;
+	left: 0px;
+	width: auto;
+	height: auto;
+}
+
+#pandasecurity_crypto_gaming_1 {
+	left: 0px;
+	width: 1440px;
+	height: 899px;
+	background:url(skins/pandasecurity_crypto_gaming_1.png);
+	background-size:cover;
+}
+
+
+#crypto_prediction_software {
+	top: 635px;
+	left: 186px;
+	width: 1120px;
+	height: 139px;
+	overflow: hidden;
+	font-family: Kaushan Script;
+	font-size: 64px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#group_8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 140px;
+}
+#frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 140px;
+}
+
+#gocrypt_ek5 {
+	top: 53px;
+	left: 157px;
+	width: 210px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 36px;
+	text-align: left;
+	color:#FF7B00;
+}
+
+
+#line_1_ek1 {
+	top: 140px;
+	left: 0px;
+	width: 1458px;
+	height: 0.5px;
+	background:#000000;
+}
+
+
+
+#trading {
+	top: 61px;
+	left: 335px;
+	width: 161px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: center;
+	color:#FF7B00;
+}
+
+
+#investing {
+	top: 61px;
+	left: 479px;
+	width: 161px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: center;
+	color:#FF7B00;
+}
+
+
+#top_markets {
+	top: 61px;
+	left: 623px;
+	width: 171px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: center;
+	color:#FF7B00;
+}
+
+
+#about_us {
+	top: 59px;
+	left: 777px;
+	width: 161px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: center;
+	color:#FF7B00;
+}
+
+#login_button {
+	top: 49px;
+	left: 975px;
+	width: 192px;
+	height: 62px;
+}
+
+#login {
+	top: 11px;
+	left: 20px;
+	width: 161px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: center;
+	color:#FF7B00;
+}
+
+
+#rectangle_1 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 194px;
+	height: 64px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #ff7b00;
+	background:rgba(217,217,217,0);
+}
+
+#sign_up_button {
+	top: 49px;
+	left: 1194px;
+	width: 192px;
+	height: 62px;
+}
+
+#sign_up {
+	top: 10px;
+	left: 20px;
+	width: 161px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Aoboshi One;
+	font-size: 24px;
+	text-align: center;
+	color:#FF7B00;
+}
+
+
+#rectangle_2 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 194px;
+	height: 64px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #ff7b00;
+	background:rgba(217,217,217,0);
+}
+
+a{ 
+	color: black; 
+} 
+
+
